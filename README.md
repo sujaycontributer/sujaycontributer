@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @sujaycontributer
+- 👋 Hi there, I’m Sujay Ghosh
 -   Hi, I'm a 2nd year undergraduate CSE student   currently learning the web dev..
--   Web-Dev status:- comoleted HTML and CSS.
+-   Web-Dev status ✅:- NodeJs, Expresjs, MongoDB.
+-   Solid understand of  user authentication uisng JWT, bcrypt some npm libraries.
  
 <!---
 sujaycontributer/sujaycontributer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
