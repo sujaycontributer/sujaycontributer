@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Sujay Ghosh
--   Hi, I'm a 2nd year undergraduate CSE student   currently learning the web dev..
--   Web-Dev status ✅:- NodeJs, Expresjs, MongoDB.
+-   Hi there, I'm a 2nd year undergraduate CSE student  currently learning the web dev..
+-   Web-Dev status ✅:- ReactJs, NodeJs, Expresjs, MongoDB.
 -   Solid understand of  user authentication uisng JWT, bcrypt some npm libraries.
  
 <!---
