@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m **Sujay Ghosh**
--    I'm  second-year CSE undergraduate student currently learning web development.
+-    I'm  3rd year CSE undergraduate student currently learning web development.
 -   Web-Dev status ✅:- **NextJs, ReactJs, Typescript, NodeJs, ExpresJs, PostgreSQL, Prism-ORM, NextAuth, Websocket, Firebase, MongoDB**.
 -   Solid understanding of **user authentication: - using JWT, bcrypt with some npm libraries, firebase auth**.
  
