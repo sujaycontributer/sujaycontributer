@@ -5,7 +5,7 @@
   
 ## Connect with me
 - **LinkedIn:** [Sujay Ghsoh](https://www.linkedin.com/in/sujay-ghosh-1b18a2266/)
-- **x:** [sujay_dev](https://x.com/sujay_dev_)
+- **X:** [sujay_dev](https://x.com/sujay_dev_)
  
 ##  GitHub Stats
 ![Sujay's Github stats](https://github-readme-stats.vercel.app/api?username=sujaycontributer&show_icons=true&theme=radical)
