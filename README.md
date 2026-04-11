@@ -8,4 +8,3 @@
 - **X:** [sujay_dev](https://x.com/sujay_dev_)
  
 ##  GitHub Stats
-[![Streak](https://demolab.com)](https://github.com/denvercoder1/github-readme-streak-stats)
