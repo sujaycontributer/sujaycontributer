@@ -8,4 +8,4 @@
 - **X:** [sujay_dev](https://x.com/sujay_dev_)
  
 ##  GitHub Stats
-![Sujay's Github stats](https://github-readme-stats.vercel.app/api?username=sujaycontributer&show_icons=true&theme=radical)
+[![Sujay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujaycontributer)](https://github.com/anuraghazra/github-readme-stats)
