@@ -8,4 +8,4 @@
 - **X:** [sujay_dev](https://x.com/sujay_dev_)
  
 ##  GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sujaycontributer)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sujaycontributer&theme=dark)](https://git.io/streak-stats)
