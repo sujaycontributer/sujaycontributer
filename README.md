@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m **Sujay Ghosh**
--    I'm  final year CSE undergraduate student currently learning web development.
+-    I'm  final year CSE undergraduate student.
 -   Dev skills:- NextJs, ReactJs, Typescript, Docker, NodeJs, ExpresJs, PostgreSQL, Prism-ORM, MongoDB, NextAuth, Websocket, Socket.IO.
 -   Solid understanding of **user authentication: - NextAuth + OAuth, using JWT, bcrypt with some npm libraries**.
   
